@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.active{
+    background-color:   rgb(255, 140, 0 , 0.15);
+    border: 3px solid rgb(255, 140, 0); 
+    border-right: none;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 20px;
+}
